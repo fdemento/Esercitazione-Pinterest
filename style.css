@@ -3,6 +3,8 @@
     padding: 0;
 }
 
+/* Proprietà della pagina */
+
 body {
     display: flex;
     width: 100%;
